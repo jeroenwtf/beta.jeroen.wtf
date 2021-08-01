@@ -6,6 +6,10 @@ module.exports = {
     },
   },
   theme: {
+    fontFamily: {
+      display: ["Fira Mono", "sans-serif"],
+      body: ["Quicksand", 'sans-serif'],
+    },
     extend: {
       colors: {
         change: 'black',
